@@ -2,6 +2,7 @@
 ![React TodoList Modal](./src/assets/tampilan2.png)
 
 # React Todo App.
+https://todolistappyola.netlify.app/ 
 
 ## Project Description
 Project ini merupakan jawaban dari soal ke 4 test frontend baskit yang dibuat
