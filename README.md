@@ -1,5 +1,5 @@
 ![React TodoList App](./src/assets/tampilan1.png)
-(./src/assets/tampilan2.png)
+![React TodoList Modal](./src/assets/tampilan2.png)
 
 # React Todo App.
 
